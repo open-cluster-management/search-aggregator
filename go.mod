@@ -17,6 +17,7 @@ require (
 	github.com/onsi/gomega v1.10.4 // indirect
 	github.com/open-cluster-management/api v0.0.0-20200623215229-19a96fed707a
 	github.com/open-cluster-management/multicloud-operators-foundation v0.0.0-20200629084830-3965fdd47134
+	github.com/prometheus/client_golang v1.2.1
 	github.com/redislabs/redisgraph-go v2.0.2+incompatible
 	github.com/stretchr/testify v1.7.0
 	golang.org/x/sys v0.0.0-20210119212857-b64e53b001e4 // indirect
